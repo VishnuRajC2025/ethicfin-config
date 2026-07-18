@@ -1,0 +1,1136 @@
+[
+    {
+        "label": "Home",
+        "url": "home\/index",
+        "icon": "home",
+        "cat": "Dashboard"
+    },
+    {
+        "label": "Dashboard Summary",
+        "url": "home\/dashboard",
+        "icon": "dashboard",
+        "cat": "Dashboard"
+    },
+    {
+        "label": "Branch Requests",
+        "url": "home\/brtransrequests",
+        "icon": "compare_arrows",
+        "cat": "Dashboard"
+    },
+    {
+        "label": "Customer Enquiry",
+        "url": "home\/customerenquirylist",
+        "icon": "contact_support",
+        "cat": "Dashboard"
+    },
+    {
+        "label": "Customers",
+        "url": "home\/customers",
+        "icon": "people",
+        "cat": "Sales"
+    },
+    {
+        "label": "Create Customer",
+        "url": "home\/newcustomer",
+        "icon": "person_add",
+        "cat": "Sales"
+    },
+    {
+        "label": "Outstanding Customers",
+        "url": "home\/outstandingcustomers",
+        "icon": "warning",
+        "cat": "Sales"
+    },
+    {
+        "label": "Customer Visa Status",
+        "url": "home\/customervisastatus",
+        "icon": "card_membership",
+        "cat": "Sales"
+    },
+    {
+        "label": "Sales Invoices",
+        "url": "home\/invoices",
+        "icon": "receipt",
+        "cat": "Sales"
+    },
+    {
+        "label": "Create Invoice",
+        "url": "home\/newsale",
+        "icon": "add_circle",
+        "cat": "Sales"
+    },
+    {
+        "label": "Invoice Draft",
+        "url": "home\/invoice",
+        "icon": "drafts",
+        "cat": "Sales"
+    },
+    {
+        "label": "Unposted Invoice",
+        "url": "home\/invdrafts",
+        "icon": "pending",
+        "cat": "Sales"
+    },
+    {
+        "label": "Proforma Invoice",
+        "url": "home\/proformainvoice",
+        "icon": "description",
+        "cat": "Sales"
+    },
+    {
+        "label": "Delivery Notes",
+        "url": "home\/deliverynote",
+        "icon": "local_shipping",
+        "cat": "Sales"
+    },
+    {
+        "label": "Packing List",
+        "url": "home\/packinglist",
+        "icon": "inventory",
+        "cat": "Sales"
+    },
+    {
+        "label": "Sales Quotations",
+        "url": "home\/salesquote",
+        "icon": "request_quote",
+        "cat": "Sales"
+    },
+    {
+        "label": "Create Quotation",
+        "url": "home\/newsq",
+        "icon": "add_circle",
+        "cat": "Sales"
+    },
+    {
+        "label": "Sales Quote Draft",
+        "url": "home\/sqdrafts",
+        "icon": "drafts",
+        "cat": "Sales"
+    },
+    {
+        "label": "Sales Orders",
+        "url": "home\/orders",
+        "icon": "shopping_cart",
+        "cat": "Sales"
+    },
+    {
+        "label": "Create Sales Order",
+        "url": "home\/neworder",
+        "icon": "add_circle",
+        "cat": "Sales"
+    },
+    {
+        "label": "Sales Returns",
+        "url": "home\/salesrtns",
+        "icon": "undo",
+        "cat": "Sales"
+    },
+    {
+        "label": "Create Sales Return",
+        "url": "home\/newsalesrtn",
+        "icon": "add_circle",
+        "cat": "Sales"
+    },
+    {
+        "label": "Credit Note",
+        "url": "home\/creditnote",
+        "icon": "note",
+        "cat": "Sales"
+    },
+    {
+        "label": "Debit Note",
+        "url": "home\/debitnote",
+        "icon": "note_alt",
+        "cat": "Sales"
+    },
+    {
+        "label": "Vendors \/ Suppliers",
+        "url": "home\/vendors",
+        "icon": "store",
+        "cat": "Purchase"
+    },
+    {
+        "label": "Create Vendor",
+        "url": "home\/newvendor",
+        "icon": "add_business",
+        "cat": "Purchase"
+    },
+    {
+        "label": "Purchase Invoices",
+        "url": "home\/purchase",
+        "icon": "shopping_bag",
+        "cat": "Purchase"
+    },
+    {
+        "label": "Create Purchase",
+        "url": "home\/newpurchase",
+        "icon": "add_circle",
+        "cat": "Purchase"
+    },
+    {
+        "label": "Purchase Returns",
+        "url": "home\/purchasertn",
+        "icon": "undo",
+        "cat": "Purchase"
+    },
+    {
+        "label": "Purchase Orders",
+        "url": "home\/porders",
+        "icon": "list_alt",
+        "cat": "Purchase"
+    },
+    {
+        "label": "RFQ",
+        "url": "home\/rfq",
+        "icon": "request_quote",
+        "cat": "Purchase"
+    },
+    {
+        "label": "GRN",
+        "url": "grn\/grn",
+        "icon": "receipt_long",
+        "cat": "Purchase"
+    },
+    {
+        "label": "Products",
+        "url": "home\/products",
+        "icon": "inventory_2",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Create Product",
+        "url": "home\/newproduct",
+        "icon": "add_circle",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Services",
+        "url": "home\/services",
+        "icon": "miscellaneous_services",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Create Service",
+        "url": "home\/newservice",
+        "icon": "add_circle",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Warehouse",
+        "url": "home\/warehouse",
+        "icon": "warehouse",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Inbound",
+        "url": "home\/inboundlist",
+        "icon": "input",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Outbound",
+        "url": "home\/outboundlist",
+        "icon": "output",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Inventory Health",
+        "url": "stock\/inventoryhealthcheck",
+        "icon": "health_and_safety",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Stock Summary",
+        "url": "invoice_fifo\/stocksummary",
+        "icon": "summarize",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Stock Movement",
+        "url": "invoice_fifo\/stockmovement",
+        "icon": "swap_horiz",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Reorder Report",
+        "url": "stock\/reorderreport",
+        "icon": "replay",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Stock Aging",
+        "url": "stock\/stockaging",
+        "icon": "hourglass_bottom",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Stock Transfer Requests",
+        "url": "stock\/stocktrrequests",
+        "icon": "sync_alt",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Inventory Report",
+        "url": "stock\/inventoryreport",
+        "icon": "assessment",
+        "cat": "Inventory"
+    },
+    {
+        "label": "Stock Transfer - Request Sent",
+        "url": "st\/requestsent",
+        "icon": "send",
+        "cat": "Stock Transfer"
+    },
+    {
+        "label": "Stock Transfer - Request Received",
+        "url": "st\/requestreceived",
+        "icon": "move_to_inbox",
+        "cat": "Stock Transfer"
+    },
+    {
+        "label": "Vans",
+        "url": "home\/vans",
+        "icon": "airport_shuttle",
+        "cat": "Van Sale"
+    },
+    {
+        "label": "Van Inward Transfer",
+        "url": "home\/vansalelist?type=IN",
+        "icon": "input",
+        "cat": "Van Sale"
+    },
+    {
+        "label": "Van Outward Transfer",
+        "url": "home\/vansalelist?type=OUT",
+        "icon": "output",
+        "cat": "Van Sale"
+    },
+    {
+        "label": "Salesperson Management",
+        "url": "home\/whspm",
+        "icon": "manage_accounts",
+        "cat": "Van Sale"
+    },
+    {
+        "label": "Outward Dispatch Request",
+        "url": "stock\/myrequests",
+        "icon": "outbox",
+        "cat": "Van Sale"
+    },
+    {
+        "label": "Inward Dispatch Request",
+        "url": "stock\/userstockrequest",
+        "icon": "move_to_inbox",
+        "cat": "Van Sale"
+    },
+    {
+        "label": "Admin Stock Request",
+        "url": "stock\/stockrequest",
+        "icon": "admin_panel_settings",
+        "cat": "Van Sale"
+    },
+    {
+        "label": "Manage Job (Logistics)",
+        "url": "home\/managejob",
+        "icon": "work",
+        "cat": "Logistics"
+    },
+    {
+        "label": "Waybill",
+        "url": "home\/listwaybill",
+        "icon": "receipt_long",
+        "cat": "Logistics"
+    },
+    {
+        "label": "Manage Route",
+        "url": "home\/manageroute",
+        "icon": "route",
+        "cat": "Transport"
+    },
+    {
+        "label": "Manage Vehicle",
+        "url": "home\/managevehicle",
+        "icon": "directions_car",
+        "cat": "Transport"
+    },
+    {
+        "label": "Manage Drivers",
+        "url": "home\/managedriver",
+        "icon": "person",
+        "cat": "Transport"
+    },
+    {
+        "label": "Price List",
+        "url": "home\/pricelist",
+        "icon": "price_change",
+        "cat": "Transport"
+    },
+    {
+        "label": "Manage Waybill",
+        "url": "home\/listwaybilltransport",
+        "icon": "receipt_long",
+        "cat": "Transport"
+    },
+    {
+        "label": "Uninvoiced Documents",
+        "url": "home\/uninvoiceddocuments",
+        "icon": "pending_actions",
+        "cat": "Transport"
+    },
+    {
+        "label": "Manage Docs",
+        "url": "home\/manageexcel",
+        "icon": "folder_open",
+        "cat": "Transport"
+    },
+    {
+        "label": "Route Report",
+        "url": "home\/routereport",
+        "icon": "assessment",
+        "cat": "Transport"
+    },
+    {
+        "label": "Driver Report",
+        "url": "home\/transportdriverreport",
+        "icon": "person",
+        "cat": "Transport"
+    },
+    {
+        "label": "Vehicle Report",
+        "url": "home\/vehiclereport",
+        "icon": "directions_car",
+        "cat": "Transport"
+    },
+    {
+        "label": "Fleet Report",
+        "url": "home\/fleet_trip_report",
+        "icon": "local_shipping",
+        "cat": "Transport"
+    },
+    {
+        "label": "Transport Projects",
+        "url": "home\/managetransportprojects",
+        "icon": "folder",
+        "cat": "Transport"
+    },
+    {
+        "label": "Transport Jobs",
+        "url": "home\/listtransportjob",
+        "icon": "work",
+        "cat": "Transport"
+    },
+    {
+        "label": "Job Request",
+        "url": "home\/customerrequest",
+        "icon": "assignment",
+        "cat": "Transport"
+    },
+    {
+        "label": "Customer Requests",
+        "url": "home\/listcustomerrequest",
+        "icon": "list",
+        "cat": "Transport"
+    },
+    {
+        "label": "Maintenance Summary",
+        "url": "maintenance\/summary",
+        "icon": "summarize",
+        "cat": "Maintenance"
+    },
+    {
+        "label": "Create Maintenance Job",
+        "url": "maintenance\/create_job",
+        "icon": "add_circle",
+        "cat": "Maintenance"
+    },
+    {
+        "label": "Collection Agent Jobs",
+        "url": "maintenance\/newjob",
+        "icon": "assignment_ind",
+        "cat": "Maintenance"
+    },
+    {
+        "label": "Supervisor Job",
+        "url": "maintenance\/newsupervisorjob",
+        "icon": "supervisor_account",
+        "cat": "Maintenance"
+    },
+    {
+        "label": "Technician Jobs",
+        "url": "maintenance\/newtechnicianjob",
+        "icon": "build",
+        "cat": "Maintenance"
+    },
+    {
+        "label": "Maintenance Search",
+        "url": "maintenance\/search",
+        "icon": "search",
+        "cat": "Maintenance"
+    },
+    {
+        "label": "Technician Report",
+        "url": "maintenance\/technician_report",
+        "icon": "assessment",
+        "cat": "Maintenance"
+    },
+    {
+        "label": "Create Asset",
+        "url": "Asset\/createasset",
+        "icon": "add_circle",
+        "cat": "Assets"
+    },
+    {
+        "label": "List Assets",
+        "url": "Asset\/listasset",
+        "icon": "list",
+        "cat": "Assets"
+    },
+    {
+        "label": "Asset Disposal",
+        "url": "Asset\/disposallist",
+        "icon": "delete_forever",
+        "cat": "Assets"
+    },
+    {
+        "label": "Create Maintenance Plan",
+        "url": "maintenance_jobcard\/createjobcard",
+        "icon": "add_circle",
+        "cat": "Job Cards"
+    },
+    {
+        "label": "Maintenance Plans",
+        "url": "maintenance_jobcard\/listjobcard",
+        "icon": "list",
+        "cat": "Job Cards"
+    },
+    {
+        "label": "Job Cards",
+        "url": "maintenance_jobcard\/listjobcards",
+        "icon": "assignment",
+        "cat": "Job Cards"
+    },
+    {
+        "label": "Upcoming Maintenance",
+        "url": "maintenance_jobcard\/miantenancereport",
+        "icon": "event",
+        "cat": "Job Cards"
+    },
+    {
+        "label": "Job Card Stock Update",
+        "url": "maintenance_jobcard\/stockupdate",
+        "icon": "inventory",
+        "cat": "Job Cards"
+    },
+    {
+        "label": "Recipe List",
+        "url": "home\/listmenubook",
+        "icon": "menu_book",
+        "cat": "Production"
+    },
+    {
+        "label": "Daily Production",
+        "url": "home\/list_production_details",
+        "icon": "factory",
+        "cat": "Production"
+    },
+    {
+        "label": "Manage Projects",
+        "url": "project\/index",
+        "icon": "folder",
+        "cat": "Projects"
+    },
+    {
+        "label": "Project Work Log",
+        "url": "project\/projectstaffworklog",
+        "icon": "access_time",
+        "cat": "Projects"
+    },
+    {
+        "label": "Allocate Employees",
+        "url": "project\/manpowersupply",
+        "icon": "group_add",
+        "cat": "Projects"
+    },
+    {
+        "label": "External Manpower",
+        "url": "project\/manpowersupplylist",
+        "icon": "people_outline",
+        "cat": "Projects"
+    },
+    {
+        "label": "All Jobs",
+        "url": "jm\/listjobs",
+        "icon": "work",
+        "cat": "Jobs"
+    },
+    {
+        "label": "General Ledger",
+        "url": "home\/chartofaccounts",
+        "icon": "account_tree",
+        "cat": "Finance"
+    },
+    {
+        "label": "Ledger Group",
+        "url": "Accounts\/ledgergrouplist",
+        "icon": "folder",
+        "cat": "Finance"
+    },
+    {
+        "label": "Ledger Group Report",
+        "url": "Accounts\/ledgergroupreport",
+        "icon": "assessment",
+        "cat": "Finance"
+    },
+    {
+        "label": "Capital Accounts",
+        "url": "home\/capitalaccounts",
+        "icon": "account_balance",
+        "cat": "Finance"
+    },
+    {
+        "label": "Receipt Vouchers",
+        "url": "home\/receiptlist",
+        "icon": "payments",
+        "cat": "Finance"
+    },
+    {
+        "label": "Create Receipt",
+        "url": "home\/newrecipt",
+        "icon": "add_circle",
+        "cat": "Finance"
+    },
+    {
+        "label": "Payment Vouchers",
+        "url": "home\/newpaymentlist",
+        "icon": "account_balance_wallet",
+        "cat": "Finance"
+    },
+    {
+        "label": "Create Payment",
+        "url": "home\/newpayment",
+        "icon": "add_circle",
+        "cat": "Finance"
+    },
+    {
+        "label": "Journals",
+        "url": "home\/journallist",
+        "icon": "menu_book",
+        "cat": "Finance"
+    },
+    {
+        "label": "Create Journal",
+        "url": "home\/newjournal",
+        "icon": "add_circle",
+        "cat": "Finance"
+    },
+    {
+        "label": "Contra List",
+        "url": "home\/contralist",
+        "icon": "compare_arrows",
+        "cat": "Finance"
+    },
+    {
+        "label": "Tax Payments",
+        "url": "home\/taxpayments",
+        "icon": "percent",
+        "cat": "Finance"
+    },
+    {
+        "label": "Purchase Accounts",
+        "url": "home\/purchaseaccounts",
+        "icon": "shopping_bag",
+        "cat": "Finance"
+    },
+    {
+        "label": "Purchase Return Accounts",
+        "url": "home\/purchasertnaccounts",
+        "icon": "undo",
+        "cat": "Finance"
+    },
+    {
+        "label": "Sales Accounts",
+        "url": "home\/salesaccounts",
+        "icon": "receipt",
+        "cat": "Finance"
+    },
+    {
+        "label": "Sales Return Accounts",
+        "url": "home\/salesrtnaccounts",
+        "icon": "undo",
+        "cat": "Finance"
+    },
+    {
+        "label": "Credit Note Accounts",
+        "url": "home\/creditnoteaccounts",
+        "icon": "note",
+        "cat": "Finance"
+    },
+    {
+        "label": "Bank Account",
+        "url": "home\/chartofaccounts?m=b&category=Bank",
+        "icon": "account_balance",
+        "cat": "Finance"
+    },
+    {
+        "label": "Cash Account",
+        "url": "home\/chartofaccounts?m=c&category=Cash",
+        "icon": "payments",
+        "cat": "Finance"
+    },
+    {
+        "label": "Trial Balance",
+        "url": "home\/trialbalance",
+        "icon": "balance",
+        "cat": "Finance"
+    },
+    {
+        "label": "Profit & Loss",
+        "url": "home\/tradingprofitandloss",
+        "icon": "bar_chart",
+        "cat": "Finance"
+    },
+    {
+        "label": "Balance Sheet",
+        "url": "home\/balancesheet",
+        "icon": "table_chart",
+        "cat": "Finance"
+    },
+    {
+        "label": "Income Categories",
+        "url": "home\/incomecategories",
+        "icon": "category",
+        "cat": "Income & Expenses"
+    },
+    {
+        "label": "Income Vouchers",
+        "url": "home\/income",
+        "icon": "trending_up",
+        "cat": "Income & Expenses"
+    },
+    {
+        "label": "Add Income",
+        "url": "home\/addincome",
+        "icon": "add_circle",
+        "cat": "Income & Expenses"
+    },
+    {
+        "label": "Expense Categories",
+        "url": "home\/expensecategories",
+        "icon": "category",
+        "cat": "Income & Expenses"
+    },
+    {
+        "label": "Expense Vouchers",
+        "url": "home\/expense",
+        "icon": "trending_down",
+        "cat": "Income & Expenses"
+    },
+    {
+        "label": "Add Expense",
+        "url": "home\/addexpense",
+        "icon": "add_circle",
+        "cat": "Income & Expenses"
+    },
+    {
+        "label": "Inward Cheque",
+        "url": "home\/cheque?type=0",
+        "icon": "payment",
+        "cat": "Cheques"
+    },
+    {
+        "label": "Outward Cheque",
+        "url": "home\/cheque?type=1",
+        "icon": "payment",
+        "cat": "Cheques"
+    },
+    {
+        "label": "Inward Cheque Due Today",
+        "url": "home\/cheque?duetoday=0",
+        "icon": "today",
+        "cat": "Cheques"
+    },
+    {
+        "label": "Outward Cheque Due Today",
+        "url": "home\/cheque?duetoday=1",
+        "icon": "today",
+        "cat": "Cheques"
+    },
+    {
+        "label": "Manage Employees",
+        "url": "hr\/employees",
+        "icon": "badge",
+        "cat": "HR"
+    },
+    {
+        "label": "Employee Timesheet",
+        "url": "hr\/timesheet_list",
+        "icon": "access_time",
+        "cat": "HR"
+    },
+    {
+        "label": "Salary Update",
+        "url": "hr\/salary_update",
+        "icon": "edit",
+        "cat": "HR"
+    },
+    {
+        "label": "Salary Slip Bulk Update",
+        "url": "hr\/bulk_update_payslip",
+        "icon": "burst_mode",
+        "cat": "HR"
+    },
+    {
+        "label": "Create Payslip",
+        "url": "hr\/create_payslip",
+        "icon": "add_circle",
+        "cat": "HR"
+    },
+    {
+        "label": "Manage Salary Slip",
+        "url": "hr\/manage_salaryslip",
+        "icon": "payments",
+        "cat": "HR"
+    },
+    {
+        "label": "Employee Payments",
+        "url": "hr\/employeepayments",
+        "icon": "account_balance_wallet",
+        "cat": "HR"
+    },
+    {
+        "label": "Payslip Categories",
+        "url": "hr\/earningcategories",
+        "icon": "category",
+        "cat": "HR"
+    },
+    {
+        "label": "Departments",
+        "url": "home\/departmentlist",
+        "icon": "corporate_fare",
+        "cat": "HR"
+    },
+    {
+        "label": "Designations",
+        "url": "home\/designations",
+        "icon": "work",
+        "cat": "HR"
+    },
+    {
+        "label": "Visa Status (HR)",
+        "url": "home\/visastatus",
+        "icon": "card_membership",
+        "cat": "HR"
+    },
+    {
+        "label": "Branch Receivables",
+        "url": "home\/brchrvbl",
+        "icon": "account_balance",
+        "cat": "Reports"
+    },
+    {
+        "label": "Branch Payables",
+        "url": "home\/brchpayble",
+        "icon": "account_balance",
+        "cat": "Reports"
+    },
+    {
+        "label": "Daily Report",
+        "url": "home\/drpt",
+        "icon": "today",
+        "cat": "Reports"
+    },
+    {
+        "label": "Date Range Summary",
+        "url": "home\/ddrpt",
+        "icon": "date_range",
+        "cat": "Reports"
+    },
+    {
+        "label": "Comparison Report",
+        "url": "home\/comparisonreport",
+        "icon": "compare",
+        "cat": "Reports"
+    },
+    {
+        "label": "Aging Report",
+        "url": "home\/agrpt",
+        "icon": "hourglass_bottom",
+        "cat": "Reports"
+    },
+    {
+        "label": "Aging Report Dynamic",
+        "url": "home\/aocreport",
+        "icon": "hourglass_empty",
+        "cat": "Reports"
+    },
+    {
+        "label": "Vendor Aging Report",
+        "url": "home\/vagrpt",
+        "icon": "store",
+        "cat": "Reports"
+    },
+    {
+        "label": "Customer Report",
+        "url": "home\/crpt",
+        "icon": "people",
+        "cat": "Reports"
+    },
+    {
+        "label": "Delivery Note Report",
+        "url": "home\/dnrpt",
+        "icon": "local_shipping",
+        "cat": "Reports"
+    },
+    {
+        "label": "Sales Report",
+        "url": "home\/salesrpt",
+        "icon": "bar_chart",
+        "cat": "Reports"
+    },
+    {
+        "label": "Purchase Report",
+        "url": "home\/purchaserpt",
+        "icon": "shopping_bag",
+        "cat": "Reports"
+    },
+    {
+        "label": "Sales Representative Report",
+        "url": "home\/smrpt",
+        "icon": "person",
+        "cat": "Reports"
+    },
+    {
+        "label": "Delivery Report",
+        "url": "deliverynote\/dvrdnreport",
+        "icon": "local_shipping",
+        "cat": "Reports"
+    },
+    {
+        "label": "Driver Report",
+        "url": "home\/driverreport",
+        "icon": "person",
+        "cat": "Reports"
+    },
+    {
+        "label": "Receipt Report",
+        "url": "home\/receiverpt",
+        "icon": "payments",
+        "cat": "Reports"
+    },
+    {
+        "label": "Vendor Report",
+        "url": "home\/vrpt",
+        "icon": "store",
+        "cat": "Reports"
+    },
+    {
+        "label": "Outstanding Invoice Report",
+        "url": "home\/irpt",
+        "icon": "pending_actions",
+        "cat": "Reports"
+    },
+    {
+        "label": "Products Report",
+        "url": "home\/prpt",
+        "icon": "inventory_2",
+        "cat": "Reports"
+    },
+    {
+        "label": "Services Report",
+        "url": "home\/srpt",
+        "icon": "miscellaneous_services",
+        "cat": "Reports"
+    },
+    {
+        "label": "Tax Report",
+        "url": "home\/taxreport",
+        "icon": "percent",
+        "cat": "Reports"
+    },
+    {
+        "label": "VAT Report",
+        "url": "home\/taxreportar",
+        "icon": "percent",
+        "cat": "Reports"
+    },
+    {
+        "label": "Payables",
+        "url": "home\/payables",
+        "icon": "account_balance_wallet",
+        "cat": "Reports"
+    },
+    {
+        "label": "Receivables",
+        "url": "home\/receivable",
+        "icon": "payments",
+        "cat": "Reports"
+    },
+    {
+        "label": "Cost Report",
+        "url": "home\/itemcostreport",
+        "icon": "price_change",
+        "cat": "Reports"
+    },
+    {
+        "label": "Cost Center Report",
+        "url": "home\/costcenter_report",
+        "icon": "corporate_fare",
+        "cat": "Reports"
+    },
+    {
+        "label": "Invoice-wise Profit",
+        "url": "invoice_fifo\/invoice_wise_profit",
+        "icon": "receipt_long",
+        "cat": "Reports"
+    },
+    {
+        "label": "Delivery Note Profit",
+        "url": "invoice_fifo\/deliverynote_wise_profit",
+        "icon": "local_shipping",
+        "cat": "Reports"
+    },
+    {
+        "label": "Item-wise Profit",
+        "url": "invoice_fifo\/item_wise_profit",
+        "icon": "insights",
+        "cat": "Reports"
+    },
+    {
+        "label": "Date-wise Profit",
+        "url": "invoice_fifo\/date_wise_report",
+        "icon": "date_range",
+        "cat": "Reports"
+    },
+    {
+        "label": "Advanced Report",
+        "url": "home\/adv_report",
+        "icon": "analytics",
+        "cat": "Reports"
+    },
+    {
+        "label": "Sales Analysis",
+        "url": "Salesreport\/salesanalysis",
+        "icon": "analytics",
+        "cat": "Reports"
+    },
+    {
+        "label": "Cost Report (Accounts)",
+        "url": "home\/costreport",
+        "icon": "price_change",
+        "cat": "Reports"
+    },
+    {
+        "label": "FIFO Stock Summary",
+        "url": "invoice_fifo\/stocksummary",
+        "icon": "summarize",
+        "cat": "FIFO Reports"
+    },
+    {
+        "label": "FIFO Stock Movement",
+        "url": "invoice_fifo\/stockmovement",
+        "icon": "swap_horiz",
+        "cat": "FIFO Reports"
+    },
+    {
+        "label": "FIFO Item Profit",
+        "url": "invoice_fifo\/item_wise_profit",
+        "icon": "insights",
+        "cat": "FIFO Reports"
+    },
+    {
+        "label": "FIFO Delivery Note Profit",
+        "url": "invoice_fifo\/deliverynote_wise_profit",
+        "icon": "local_shipping",
+        "cat": "FIFO Reports"
+    },
+    {
+        "label": "FIFO Invoice Profit",
+        "url": "invoice_fifo\/invoice_wise_profit",
+        "icon": "receipt_long",
+        "cat": "FIFO Reports"
+    },
+    {
+        "label": "WAVG Stock Summary",
+        "url": "invoice_wavg\/stocksummary",
+        "icon": "summarize",
+        "cat": "WAVG Reports"
+    },
+    {
+        "label": "WAVG Stock Movement",
+        "url": "invoice_wavg\/stockmovement",
+        "icon": "swap_horiz",
+        "cat": "WAVG Reports"
+    },
+    {
+        "label": "WAVG Item Profit",
+        "url": "invoice_wavg\/item_wise_profit",
+        "icon": "insights",
+        "cat": "WAVG Reports"
+    },
+    {
+        "label": "WAVG Migration",
+        "url": "invoice_wavg\/migration_list",
+        "icon": "sync_alt",
+        "cat": "WAVG Reports"
+    },
+    {
+        "label": "Manage Users",
+        "url": "home\/staff",
+        "icon": "manage_accounts",
+        "cat": "Users"
+    },
+    {
+        "label": "Create New User",
+        "url": "home\/newstaff",
+        "icon": "person_add",
+        "cat": "Users"
+    },
+    {
+        "label": "Manage User Roles",
+        "url": "rbac\/index",
+        "icon": "security",
+        "cat": "Users"
+    },
+    {
+        "label": "Create User Role",
+        "url": "rbac\/createrbac",
+        "icon": "add_circle",
+        "cat": "Users"
+    },
+    {
+        "label": "Data Settings",
+        "url": "home\/settings",
+        "icon": "settings",
+        "cat": "Settings"
+    },
+    {
+        "label": "Terms & Conditions",
+        "url": "home\/tandc",
+        "icon": "gavel",
+        "cat": "Settings"
+    },
+    {
+        "label": "Company Settings",
+        "url": "home\/company",
+        "icon": "business",
+        "cat": "Settings"
+    },
+    {
+        "label": "Branch Profile",
+        "url": "home\/branchprofile",
+        "icon": "store",
+        "cat": "Settings"
+    },
+    {
+        "label": "Branches",
+        "url": "home\/branches",
+        "icon": "account_tree",
+        "cat": "Settings"
+    },
+    {
+        "label": "My Profile",
+        "url": "home\/profile",
+        "icon": "person",
+        "cat": "Settings"
+    }
+]
