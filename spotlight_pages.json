@@ -1020,60 +1020,6 @@
         "cat": "Reports"
     },
     {
-        "label": "FIFO Stock Summary",
-        "url": "invoice_fifo\/stocksummary",
-        "icon": "summarize",
-        "cat": "FIFO Reports"
-    },
-    {
-        "label": "FIFO Stock Movement",
-        "url": "invoice_fifo\/stockmovement",
-        "icon": "swap_horiz",
-        "cat": "FIFO Reports"
-    },
-    {
-        "label": "FIFO Item Profit",
-        "url": "invoice_fifo\/item_wise_profit",
-        "icon": "insights",
-        "cat": "FIFO Reports"
-    },
-    {
-        "label": "FIFO Delivery Note Profit",
-        "url": "invoice_fifo\/deliverynote_wise_profit",
-        "icon": "local_shipping",
-        "cat": "FIFO Reports"
-    },
-    {
-        "label": "FIFO Invoice Profit",
-        "url": "invoice_fifo\/invoice_wise_profit",
-        "icon": "receipt_long",
-        "cat": "FIFO Reports"
-    },
-    {
-        "label": "WAVG Stock Summary",
-        "url": "invoice_wavg\/stocksummary",
-        "icon": "summarize",
-        "cat": "WAVG Reports"
-    },
-    {
-        "label": "WAVG Stock Movement",
-        "url": "invoice_wavg\/stockmovement",
-        "icon": "swap_horiz",
-        "cat": "WAVG Reports"
-    },
-    {
-        "label": "WAVG Item Profit",
-        "url": "invoice_wavg\/item_wise_profit",
-        "icon": "insights",
-        "cat": "WAVG Reports"
-    },
-    {
-        "label": "WAVG Migration",
-        "url": "invoice_wavg\/migration_list",
-        "icon": "sync_alt",
-        "cat": "WAVG Reports"
-    },
-    {
         "label": "Manage Users",
         "url": "home\/staff",
         "icon": "manage_accounts",
